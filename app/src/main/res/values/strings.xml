@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StickyNotes</string>
+    <string name="default_value">Sticky notes application using the java and xml</string>
+</resources>
